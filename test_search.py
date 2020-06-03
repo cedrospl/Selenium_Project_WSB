@@ -8,7 +8,7 @@ from locators import HomePageLocators
 from locators import AfterSearchLocators
 
 
-make = "Ferrari"
+make = "Lamborghini"
 model = "Hurakan"
 price_from = "50000"
 price_to = "500000"
